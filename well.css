@@ -1,0 +1,45 @@
+table {
+    width: 60%;
+    border-collapse: collapse;
+    margin: 20px;
+}
+
+th {
+    background-color: rgb(218, 115, 221);
+    color: white;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.card {
+    position: absolute;
+    right: 20px;
+    top: 80px;
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+    background: white;
+}
+
+input {
+    width: 90%;
+    padding: 8px;
+    margin-top: 10px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    background-color: #007bff;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
